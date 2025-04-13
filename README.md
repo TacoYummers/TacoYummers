@@ -1,5 +1,1 @@
-- Hi, I’m @TacoYummers
-- I’m interested in making games
-- I’m currently learning GML & LUA
-- Pronouns: He/Him
-- Fun fact: I'm stupid.
+
